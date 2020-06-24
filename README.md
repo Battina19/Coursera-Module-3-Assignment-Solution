@@ -1,2 +1,2 @@
-# Coursera-Module-3-Assignment-Solution
+module3-solution 
 Coursera Module 3 Assignment Solution
